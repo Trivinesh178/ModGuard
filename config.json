@@ -1,0 +1,12 @@
+{
+  "banned_words": ["badword1", "badword2", "scamlink"],
+  "spam": {
+    "max_messages": 5,
+    "interval_seconds": 5,
+    "max_duplicates": 3,
+    "max_mentions": 5
+  },
+  "strikes_before_mute": 3,
+  "mute_minutes": 10,
+  "log_channel_name": "mod-logs"
+}
